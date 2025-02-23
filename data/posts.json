@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1740305747071",
+    "title": "eeismli",
+    "content": "<p>dasdasdašsadasd</p><p></p><p></p><p></p><p>das</p><p>d</p><p>sa</p><p>d</p><p>asd</p><p>sa</p><p>d</p><p>as</p><p>dsa</p><p>d</p><p>sa</p><p>d</p><p>sad</p><p>as</p><p>dsa</p><p>d</p><p>as</p><p>da</p><img src=\"/uploads/71ec66331f59f5b270c54acbc1043ccb.png\">",
+    "category": "story",
+    "createdAt": "2025-02-23T10:15:47.071Z",
+    "updatedAt": "2025-02-23T10:15:47.071Z"
+  },
+  {
+    "id": "1740305406874",
+    "title": "deneme",
+    "content": "adas",
+    "category": "story",
+    "createdAt": "2025-02-23T10:10:06.874Z",
+    "updatedAt": "2025-02-23T10:10:06.874Z",
+    "likes": 1,
+    "dislikes": 1
+  }
+]
